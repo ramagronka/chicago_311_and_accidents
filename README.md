@@ -18,4 +18,4 @@ By leveraging AWS tools—including S3, Glue Studio, and Athena—we were able t
 - filtered_311_calls.json — Selected only calls related to road conditions
 - clean_311_calls.json — Calls were checked for nulls, date and time was standardized, addresses were standardized
 - clean_crashes.json — Crashes records were checked for nulls, date and time was standardized, addresses were standardized
-- joined_final_calls_crashes — Calls and Crashes were joined in the address field
+- joined_final_calls_crashes.json — Calls and Crashes were joined in the address field
